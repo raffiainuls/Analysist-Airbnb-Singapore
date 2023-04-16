@@ -2,3 +2,4 @@ haversine==2.8.0
 matplotlib==3.7.1
 pandasql==0.7.3
 seaborn==0.12.2
+plotly==5.14.1
