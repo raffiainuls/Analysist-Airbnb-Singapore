@@ -4,7 +4,7 @@ import streamlit as st
 
 st.markdown("<h1 style = 'text-align : center; color : black; font_size : 40 px; font-family : Arial'><b>Analisis Penyewaan Pada Airbnb Singapore<b></h1>", unsafe_allow_html= True)
 st.markdown("------")
-st.markdown("Created by [Raffi Ainul Afif](linkedin.com/in/raffi-ainul-afif-9811a411b/)")
+st.markdown("Created by [Raffi Ainul Afif](https://www.linkedin.com/in/raffi-ainul-afif-9811a411b/)")
 
 paragraf1 = """<p style = 'font-size: 14px; font-family : Arial; '> Airbnb dalah sebuah platform online yang memungkinkan penggunanya untuk 
 menyewa atau menyewakan akomodasi seperti rumah, apartemen, atau villa untuk jangka pendek Di singapura Airbnb telah menjadi salah satu 
